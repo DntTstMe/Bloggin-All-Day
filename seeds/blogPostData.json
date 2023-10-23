@@ -1,0 +1,21 @@
+[
+    {
+      "title": "Breakthroughs in Renewable Energy Sources",
+      "description": "New research shows promising developments in renewable energy technologies, making clean energy more accessible and efficient for a sustainable future...",
+      "date_created": "October 8, 2023",
+      "user_id": 1
+    },
+    {
+      "title": "Medical Breakthrough: A Promising Treatment for Alzheimer's",
+      "description": "Researchers have made significant progress in finding a potential treatment for Alzheimer's disease, offering hope for millions of affected individuals and their families...",
+      "date_created": "January 20, 2023",
+      "user_id": 2
+    },
+    {
+      "title": "Exploring the Mysteries of Deep Space with New Telescopes",
+      "description": "Cutting-edge telescopes are unlocking the secrets of the universe, allowing astronomers to peer deeper into space and discover new celestial phenomena...",
+      "date_created": "May 12, 2023",
+      "user_id": 3
+    }
+  ]
+  

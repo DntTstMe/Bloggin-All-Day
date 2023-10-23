@@ -1,0 +1,38 @@
+[
+    {
+      "comment_body": "What is this guy talking about?",
+      "date_created": "March 18, 2023",
+      "user_id": 3,
+      "blogPost_id": 1
+    },
+    {
+      "comment_body": "What are the latest innovations in renewable energy technology?",
+      "date_created": "June 2, 2023",
+      "user_id": 2,
+      "blogPost_id": 1
+    },
+    {
+      "comment_body": "This is exciting news for a sustainable future.",
+      "date_created": "June 2, 2023",
+      "user_id": 3,
+      "blogPost_id": 2
+    },
+    {
+      "comment_body": "What are your thoughts?",
+      "date_created": "November 1, 2023",
+      "user_id": 1,
+      "blogPost_id": 2
+    },
+    {
+      "comment_body": "Wow",
+      "date_created": "May 28, 2023",
+      "user_id": 2,
+      "blogPost_id": 3
+    },
+    {
+      "comment_body": "Never believe everything you read.",
+      "date_created": "May 30, 2023",
+      "user_id": 1,
+      "blogPost_id": 3
+    }
+  ]
