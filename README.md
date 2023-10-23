@@ -11,7 +11,7 @@ Where developers can publish their blog posts and comment on other developers’
 
 ## Description:
 
-A blogging platform that allows users to sign up, post content, and interact with other posts. 
+A blogging platform that allows users to sign up, post content, and interact with other posts. A friendly place to share news.
 
 ## Installation
 
