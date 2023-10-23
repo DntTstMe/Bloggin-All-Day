@@ -1,5 +1,5 @@
 # Bloggin-All-Day
-Where developers can publish their blog posts and comment on other developers’ posts as well
+Where developers can publish their blog posts and comment on other developers’ posts as well.
 
 ## Table of Contents
 
