@@ -1,0 +1,55 @@
+/* Font family */
+body, h1, main {
+    font-family: "Jomolhari", serif;
+  }
+  
+  /* Common background color */
+  body, main, .homepage-main, .blogPost-main, .card-header, .card-body, .card, #titleInput, #bodyInput, #comment, #email-login, #password-login, #name-signup, #email-signup, #password-signup {
+    background-color: #f0f0f0; /* Light gray background */
+  }
+  
+  /* Header */
+  header {
+    font-family: "Jomolhari", serif;
+  }
+  
+  /* H1 */
+  h1 {
+    background-color: #3d70b2; /* Dark blue background */
+    color: #ffffff; /* White text color */
+    padding: 16px;
+    margin-bottom: 5px;
+  }
+  
+  /* Blog Name */
+  #blogName {
+    color: #f06f4b; /* Light orange text color */
+  }
+  
+  /* User Name */
+  .user-name {
+    background-color: #74c4ae; /* Teal background */
+  }
+  
+  /* Nav Bar */
+  .navBar {
+    background-color: #1a936f; /* Dark green background */
+  }
+  
+  /* Logout */
+  #logout {
+    background-color: #f06f4b; /* Light orange background */
+  }
+  
+  /* Button */
+  .btn {
+    background-color: #ff7f50; /* Salmon background */
+  }
+  
+  /* Card Hover Effect */
+  .card:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    transform: scale(1.02);
+    transition: all 0.3s ease;
+  }
+  
