@@ -1,0 +1,17 @@
+[
+    {
+      "name": "Michael Jackson",
+      "email": "littlemichael@gmail.com",
+      "password": "password1"
+    },
+    {
+      "name": "Ben Jerry",
+      "email": "benandjerryicecream@gmail.com",
+      "password": "password12"
+    },
+    {
+      "name": "Britney Spears",
+      "email": "hitmeonemoretime@aol.com",
+      "password": "password123"
+    }
+  ]
